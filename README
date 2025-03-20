@@ -1,0 +1,12 @@
+README(7)	       Miscellaneous Information Manual		     README(7)
+
+NAME
+     mc - MBR cloner
+
+DESCRIPTION
+     mc prints msg and then copies itself to all other drives that BIOS can
+     acces.
+
+     Be careful when using mc as it's dangerous.
+
+mc				March 20, 2025				    mc
